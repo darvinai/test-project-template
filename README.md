@@ -1,6 +1,6 @@
-# Project template for running bot tests
+# Project template testing NativeChat bots
 
-Project template for running tests with the [Darvin test framework](https://www.npmjs.com/package/darvin-testing-framework).
+Project template for testing [NativeChat](https://www.progress.com/nativechat) bots with the [Darvin test framework](https://www.npmjs.com/package/darvin-testing-framework).
 
 ## Usage
 
