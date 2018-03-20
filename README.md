@@ -1,4 +1,4 @@
-# Project template testing NativeChat bots
+# Project template for testing NativeChat bots
 
 Project template for testing [NativeChat](https://www.progress.com/nativechat) bots with the [Darvin test framework](https://www.npmjs.com/package/darvin-testing-framework).
 
