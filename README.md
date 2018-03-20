@@ -12,7 +12,7 @@ Project template for testing [NativeChat](https://www.progress.com/nativechat) b
 
 1. Add test scenarios
  
-    Open `spec/scenarios.json` file, fill your bot data and add conversation scenarios. For more information, check the Darvin test framework [API reference](https://github.com/darvinai/testing-framework#api-reference)
+    Open `spec/scenarios.json` file, fill your bot data and add conversation scenarios. For more information, check the Darvin test framework [API reference](https://github.com/darvinai/testing-framework#api-reference).
 
 1. Run tests
 
