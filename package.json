@@ -1,0 +1,17 @@
+{
+  "name": "darvin-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "darvin-testing-framework": "^1.8.0",
+    "jasmine": "^3.1.0",
+    "jasmine-expect": "^3.8.3",
+    "jasmine-reporters": "^2.3.0"
+  }
+}

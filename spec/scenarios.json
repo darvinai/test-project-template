@@ -1,0 +1,30 @@
+{
+    "name": "[bot name]",
+    "botId": "[bot id]",
+    "channel": {
+        "id": "[channel id]",
+        "token": "[channel token]"
+    },
+    "sender": {
+        "name": "[sender name]"
+    },
+    "scenarios": [
+        {
+            "it": "[scenario name]",
+            "steps": [
+                {
+                    "user": {
+                        "text": "[user message]"
+                    },
+                    "bot": [
+                        [
+                            {
+                                "text": "[bot message]"
+                            } 
+                        ]
+                    ]
+                }
+            ]
+        }
+    ]
+}
